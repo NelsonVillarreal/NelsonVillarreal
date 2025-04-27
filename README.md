@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Nelson Villarreal 🚀</h1>
+<h1 align="center"> Nelson Villarreal </h1>
 
 <h3 align="center">QA Engineer | Analista de Testes | Automação | Desenvolvedor Mobile & Web</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ Sobre Mim
+##  Sobre Mim
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** (Martha Falcão Wyden)  
 🎓 **Pós-graduando em Inteligência Artificial para Engenharia de Testes** (UFAM)  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Stacks e Ferramentas Principais
+##  Stacks e Ferramentas Principais
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai,py,cypress,postman,flutter,js,nodejs,mysql,git,github,linux,ubuntu,windows,vscode,androidstudio,azure,discord,," />
@@ -26,7 +26,7 @@
 
 ---
 
-## 💼 Experiência Profissional
+##  Experiência Profissional
 
 - **Analista de Testes de Software** na [CITS - Centro Internacional de Tecnologia de Software]  
   *(abril/2024 – jan/2025)*  
@@ -35,15 +35,12 @@
 
 - **Analista de Testes** na [Positivo Tecnologia]  
   *(junho/2023 – jan/2025)*  
-  > Planejamento e execução de testes mobile (Android/iOS), automação e gestão de defeitos.
 
 - **Estagiário Full Stack** na [CodInArts Tecnologia]  
   *(set/2022 – abr/2023)*  
-  > Desenvolvimento Front-End (Vue.js, Bootstrap) e Back-End (Node.js, Adonis), integração com MySQL.
 
----
 
-## 🏆 Certificações
+##  Certificações
 
 - Android: Introdução (Parte Única)  
 - Automação de Testes com Robot Framework  
@@ -51,26 +48,23 @@
 - Desenvolvimento e Inovação em Android e Sistemas Embarcados  
 - Ocean Talks: Chats Inteligentes
 
----
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonVillarreal&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonVillarreal&layout=compact&theme=tokyonight"/>
 </div>
 
----
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 🔹 **Automação de Testes Mobile** — Flutter + Robot Framework  
 🔹 **Website de Vendas de Peças de Moto** — Node.js + MySQL  
 🔹 **Sistema IoT com ESP32** — Desenvolvimento de drivers de comunicação
 
----
 
-## 📫 Vamos nos Conectar?
+##  Vamos nos Conectar?
 
 - 🌐 LinkedIn: [linkedin.com/in/nelsonvillarreal](https://www.linkedin.com/in/nelsonvillarreal)
 - 💬 E-mail: devnelsonvillarreal@gmail.com
@@ -78,7 +72,7 @@
 
 ---
 
-<h3 align="center">"Transformando conhecimento em resultados." 🚀</h3>
+<h3 align="center">"Transformando conhecimento em resultados." </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="400">
