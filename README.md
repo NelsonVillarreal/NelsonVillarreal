@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Nelson Villarreal 🚀</h1>
 
-<h3 align="center">QA Engineer | Analista de Testes | Especialista em Automação | Desenvolvedor Mobile & Web</h3>
+<h3 align="center">QA Engineer | Analista de Testes | Automação | Desenvolvedor Mobile & Web</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Automação%2C+Desenvolvimento+e+Inovação.;Especialista+em+Qualidade+de+Software.">
@@ -18,18 +18,10 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que Domínio
+## 🚀 Stacks e Ferramentas Principais
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-00B5B8?style=for-the-badge&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ai,py,cypress,postman,flutter,js,nodejs,mysql,git,github,linux,ubuntu,windows,vscode,androidstudio,azure,discord,," />
 </div>
 
 ---
