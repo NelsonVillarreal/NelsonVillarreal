@@ -30,9 +30,7 @@
 
 - **Analista de Testes de Software** na [CITS - Centro Internacional de Tecnologia de Software]  
   *(abril/2024 – jan/2025)*  
-  > Automação de testes mobile com Appium, Robot Framework e Python.  
-  > Testes funcionais, regressivos e em IoT, em ambientes ágeis (Scrum/Kanban).
-
+  
 - **Analista de Testes** na [Positivo Tecnologia]  
   *(junho/2023 – jan/2025)*  
 
